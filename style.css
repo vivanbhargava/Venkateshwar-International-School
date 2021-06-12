@@ -1,0 +1,16 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    text-align: center;
+}
+
+.mynavbar{
+    position: fixed;
+    z-index: 999;
+    width: 100%;
+}
+#visimage{
+    margin-top: 125px;
+}
