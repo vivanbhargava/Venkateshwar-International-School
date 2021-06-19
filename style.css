@@ -3,14 +3,50 @@ html {
 }
 
 body {
-    text-align: center;
+    text-align: left;
 }
 
-.mynavbar{
+.mynavbar {
     position: fixed;
     z-index: 999;
     width: 100%;
 }
-#visimage{
-    margin-top: 125px;
+
+#visimage {
+    margin-top: 150px;
+}
+
+#motto {
+    color: blue;
+}
+
+section {
+    margin: 10px;
+    padding-top: 150px;
+}
+
+.center {
+    text-align: center;
+}
+
+#ir iframe {
+    width: 49%;
+    height: 400px;
+}
+
+#or iframe {
+    width: 33%;
+    height: 400px;
+}
+#sa{
+    margin-bottom: 350px;
+}
+#a2iii img {
+    width: 25%;
+}
+#a2ii{
+    padding-left: 150px;
+}
+#a3 img{
+    width: 32%;
 }
