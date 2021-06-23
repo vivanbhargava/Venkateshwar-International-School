@@ -4,6 +4,7 @@ html {
 
 body {
     text-align: left;
+    background-color: greenyellow !important;
 }
 
 .mynavbar {
@@ -24,7 +25,22 @@ section {
     margin: 10px;
     padding-top: 150px;
 }
-
+h1 {
+    text-decoration-color: blue;
+    color: blue !important;
+}
+h2 {
+    color: red !important;
+}
+h3 {
+    color: orange !important;
+}
+h4 {
+    color: darkorange !important;
+}
+h5 {
+    color: chocolate !important;
+}
 .center {
     text-align: center;
 }
@@ -38,15 +54,15 @@ section {
     width: 33%;
     height: 400px;
 }
-#sa{
-    margin-bottom: 350px;
+.p{
+    margin-left: -300px;
 }
-#a2iii img {
-    width: 25%;
+.testimonials{
+    cursor: pointer;
 }
-#a2ii{
-    padding-left: 150px;
+.modal-content{
+    margin-top: 100px;
 }
-#a3 img{
-    width: 32%;
+.img_modal{
+    margin-top: 10px;
 }
